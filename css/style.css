@@ -1,0 +1,33 @@
+@charset "UTF-8";
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: '微软雅黑';
+  font-size: 0.5em;
+}
+
+.wrap{
+  width: 100%;
+}
+
+.head-font{
+  padding:20px 15px 15px 15px;
+  font-size: 4.2em;
+  background:#f0f3fa;
+  font-weight: bold;
+  padding-right: -15px;
+  padding-left: -15px;
+}
+
+.o-nav a{
+  color: #000;
+  background:#fff;
+}
+.active a{
+  border-bottom: 2px solid #336699;
+  color: #336699;
+}
+
